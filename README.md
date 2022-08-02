@@ -6,6 +6,8 @@
 
 ![image-20220802162403658](D:\0p0\实训\实训2（我的代码）\大屏可视化项目\vue的大屏可视化\images\image-20220802162403658.png)
 
+https://shizhiyuya.oss-cn-beijing.aliyuncs.com/images/image-20220802162403658.png
+
 ### 2. 项目来源
 
 https://www.bilibili.com/video/BV1bh41197p8?p=1&vd_source=3828dbbb5c12e12caae05cbc226df429
