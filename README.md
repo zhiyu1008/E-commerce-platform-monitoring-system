@@ -10,8 +10,6 @@
 
 https://www.bilibili.com/video/BV1bh41197p8?p=1&vd_source=3828dbbb5c12e12caae05cbc226df429
 
-![](https://shizhiyuya.oss-cn-beijing.aliyuncs.com/images/实时销售数据统计.png)
-
 ### 3. 项目所用到的知识点
 
 1. 前端用到了 vue2+echarts
