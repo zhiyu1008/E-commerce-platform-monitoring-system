@@ -4,7 +4,7 @@
 
 ### 1. 项目截图
 
-![image-20220802162403658](C:\Users\ht\AppData\Roaming\Typora\typora-user-images\image-20220802162403658.png)
+![image-20220802162403658](D:\0p0\实训\实训2（我的代码）\大屏可视化项目\vue的大屏可视化\images\image-20220802162403658.png)
 
 ### 2. 项目来源
 
