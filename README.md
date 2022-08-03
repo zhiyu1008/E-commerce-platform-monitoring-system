@@ -4,9 +4,7 @@
 
 ### 1. 项目截图
 
-![](https://shizhiyuya.oss-cn-beijing.aliyuncs.com/images/实时销售监控系统.png)
-
-
+![](https://shizhiyuya.oss-cn-beijing.aliyuncs.com/images/电商平台实时监控系统.png)
 
 ### 2. 项目来源
 
